@@ -1,0 +1,4 @@
+github.com/freakshake/type v0.0.0-20230226175112-41af0e963328 h1:f5aVh9l5BVlzepYvHXS/V8Ih4Gm6grLq7UkX4pCvTg0=
+github.com/freakshake/type v0.0.0-20230226175112-41af0e963328/go.mod h1:pnNycf8v/O7+UPzxWNax9zn4GpwmRTKI9nJ7Rt7N8Z8=
+github.com/freakshake/xerror v0.0.0-20230226154156-877dae998678 h1:BKhz+B/ylEQqLdjPV5gvaXU6K5aoGL3l+xT+NB71+qg=
+github.com/freakshake/xerror v0.0.0-20230226154156-877dae998678/go.mod h1:fhhTEaLzcFytW9Xzl40hJxUoc8DQnQeyCN9MWlQgwzU=
